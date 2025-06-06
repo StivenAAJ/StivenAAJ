@@ -51,4 +51,5 @@ I'm diving deeper into **Vue.js**, **Tailwind CSS**, and modern best practices i
 Want to collaborate or just talk tech?
 
 - 📧 Email: `stivenaaj@gmail.com`
+- Phone Number : (+506) 8310-8745
 - 🌐 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/stiven-arg%C3%BCello-666292320/)
