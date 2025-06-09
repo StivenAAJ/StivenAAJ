@@ -54,8 +54,8 @@ I'm diving deeper into **Vue.js**, **Tailwind CSS**, and modern best practices i
 
 ## 💼 Featured Projects
 
-- [🎬 KidsTube](https://github.com/StivenAAJ/KidsTube): A Netflix-style web app for kids, with parental control features and a fun, safe design.
-- [🌳 My Trees](https://github.com/StivenAAJ/MyTrees): A green initiative web project for tracking and adopting trees, promoting environmental awareness.
+- [🎬 KidsTube](https://github.com/StivenAAJ/KidsTube2--Frontend): A Netflix-style web app for kids, with parental control features and a fun, safe design.
+- [🌳 My Trees](https://github.com/StivenAAJ/mytreesfinal): A green initiative web project for tracking and adopting trees, promoting environmental awareness.
 
 ---
 
